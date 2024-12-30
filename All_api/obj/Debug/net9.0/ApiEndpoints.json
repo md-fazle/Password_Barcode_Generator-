@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "All_api.Controllers.CodeQrGeneratorController",
+    "Method": "GenerateCode",
+    "RelativePath": "api/CodeQrGenerator/GenerateCode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "All_api.Controllers.PasswordGeneratorController",
+    "Method": "Index",
+    "RelativePath": "api/PasswordGenerator",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "All_api.Controllers.PasswordGeneratorController",
+    "Method": "GeneratePassword",
+    "RelativePath": "api/PasswordGenerator",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
